@@ -19,8 +19,8 @@ class Game
     private bool mIsRunning;
     private bool mUpdatingActors;   // アクタ更新中か否か
 
-    private string AssetsPath = "C:\\Users\\skp02\\source\\repos\\3DGame1\\3DGame1\\Assets\\";      // Assetsパス
-    private string ShaderPath = "C:\\Users\\skp02\\source\\repos\\3DGame1\\3DGame1\\Shaders\\"; // シェーダーパス
+    private string AssetsPath = "Assets\\";      // Assetsパス
+    private string ShaderPath = "Shaders\\"; // シェーダーパス
 
     public Game()
     {
